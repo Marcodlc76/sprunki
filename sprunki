@@ -1,0 +1,12 @@
+git clone https://github.com/sprunkiscratch/SprunkiScratch.git
+cd SprunkiScratch
+index.html
+<style>
+index.html
+SprunkiScratch/
+│
+├── index.html
+└── README.md
+git checkout -b feature/AmazingFeature
+git checkout -m feature/AmazingFeature
+git push origin feature/AmazingFeature
